@@ -1,7 +1,7 @@
-all: kilo
+all: kido
 
-kilo: kilo.c
-	$(CC) -o kilo kilo.c -Wall -W -pedantic -std=c99
+kilo: kido.c
+	$(CC) -o kido kido.c -Wall -W -pedantic -std=c99
 
 clean:
-	rm kilo
+	rm kido
