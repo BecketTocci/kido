@@ -1,8 +1,8 @@
 Kido
 ===
 
-Kido is a fork of antirez's Kilo
-Kido is a small text editor in less than 1K lines of code (counted with cloc).
+Kido is a fork of antirez's Kilo.
+Kido is a small text editor.
 
 
 Usage: kido `<filename>`
